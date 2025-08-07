@@ -5,7 +5,7 @@
 <p align="left">一名初中生，正在学习安卓开发，会一点3D建模</p>
 
 ###
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHANFENG5302)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
   <img width="12" />
