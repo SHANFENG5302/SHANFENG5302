@@ -5,7 +5,7 @@
 <p align="left">一名初中生，正在学习安卓开发，会一点3D建模</p>
 
 ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHANFENG5302)](https://github.com/anuraghazra/github-readme-stats)
+<p align="middle">技能/正在学习</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
   <img width="12" />
@@ -19,17 +19,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHANFENG5302)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
-<p align="left">📫联系我     <br>yuyanfeng5302@outlook.com/1265810410@qq.com</p>
+<p align="left">📫联系我     <br>yuyanfeng5302@outlook.com/
+1265810410@qq.com</p>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="wechat logo"  />
-</div>
-
-###
