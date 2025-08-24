@@ -5,7 +5,7 @@
 <p align="left">一名初中生，正在学习安卓开发，会一点3D建模</p>
 
 ### 技能/正在学习
-[![My Skills](https://skillicons.dev/icons?theme=light&i=androidstudio,python,kotlin,blender,keyshout)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=light&i=androidstudio,python,kotlin,blender)](https://skillicons.dev)
 
 ### 联系我📫
      
