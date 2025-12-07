@@ -18,4 +18,3 @@
 - Telegram: @Fire_Mount（不常用）
 ---
 ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHANFENG5302)](https://github.com/anuraghazra/github-readme-stats)
