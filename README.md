@@ -19,9 +19,10 @@ Learning android development.
 
 Can do a little 3D modeling.
 
-> [!]Notice
+> [!Notice]
 >
 > 学业繁忙，上线随缘
+
 
 ### 📖正在学习
 
