@@ -1,10 +1,11 @@
-<h1 align="center">Hi!👋Welcome!
+## Hi!👋Welcome!
+--
 
 ### 我是FireMount
 
 #### I'm *FireMount*
 
-一名即将中考的初中生
+一名即将中考的初中生 <!--所以这段时间可能没时间上线了（悲）--!>
 
 学习安卓开发ing
 
@@ -29,11 +30,11 @@ Can do a little 3D modeling.
 - BiliBili: @知识即是力量
 - Telegram: @Fire_Mount（不常用）
 
----
+--
 
 ![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHANFENG5302)
 
----
+--
 
 2025.12.13 **牢记历史，勿忘国耻**
 
