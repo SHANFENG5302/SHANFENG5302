@@ -19,17 +19,17 @@ Learning android development.
 
 Can do a little 3D modeling.
 
-> [!Notice]
+> [!]Notice
 >
 > 学业繁忙，上线随缘
 
-### 正在学习
+### 📖正在学习
 
 [![My Language](https://skillicons.dev/icons?theme=light&i=python,kotlin,html)](https://skillicons.dev)
 
 [![My Tools](https://skillicons.dev/icons?theme=light&i=androidstudio,vscode,blender)](https://skillicons.dev)
 
-### 联系我📫
+### 📪联系我
 
 - Email: yuyanfeng5302@outlook.com
 - QQ: 1265810410@qq.com
