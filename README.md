@@ -1,4 +1,4 @@
-## Hi!👋Welcome!|欢迎光临！
+## Hi!👋Welcome! | 欢迎光临！
 
 
 ### 我是FireMount
