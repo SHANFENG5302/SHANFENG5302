@@ -2,7 +2,7 @@
 
 ### 我是FireMount
 
-##### I'm *FireMount*
+#### I'm *FireMount*
 
 一名即将中考的初中生
 
@@ -32,6 +32,8 @@ Can do a little 3D modeling.
 ---
 
 ![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHANFENG5302)
+
+---
 
 2025.12.13 **牢记历史，勿忘国耻**
 
