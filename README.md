@@ -1,4 +1,4 @@
-## Hi!👋Welcome! 欢迎光临！
+## Hi!👋Welcome!|欢迎光临！
 
 
 ### 我是FireMount
@@ -19,7 +19,7 @@ Learning android development.
 
 Can do a little 3D modeling.
 
-> [!CAUTION]
+> [!]
 >
 > 学业繁忙，上线随缘
 
