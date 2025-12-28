@@ -42,7 +42,3 @@ Can do a little 3D modeling.
 ![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHANFENG5302)
 
 ##
-
-2025.12.13 **牢记历史，勿忘国耻**
-
-Don't forget some things in history
